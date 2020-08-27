@@ -2,4 +2,4 @@ mongodb+srv://admin:<password>@cluster0.0apnz.mongodb.net/<dbname>?retryWrites=t
 password: CRMXBSHBB9QY432
 dbname: ZenNow
 
-mongodb+srv://admin:CRMXBSHBB9QY432@cluster0.0apnz.mongodb.net/ZenNowZenNow
+mongodb+srv://admin:CRMXBSHBB9QY432@cluster0.0apnz.mongodb.net/ZenNow
