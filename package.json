@@ -1,5 +1,5 @@
 {
-  "name": "Tracker",
+  "name": "tracker-app",
   "version": "1.0.0",
   "description": "This app allows user to track important events in their life",
   "main": "index.js",
