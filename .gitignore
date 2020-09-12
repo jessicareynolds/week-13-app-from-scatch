@@ -1,0 +1,5 @@
+### we set up our environmental variable in here so we dont commit them to github
+.env
+
+### we also dont want to push our node_modules 
+node_modules
