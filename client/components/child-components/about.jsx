@@ -1,10 +1,10 @@
-/*import React from 'react'
+import React from 'react'
 
 
 class About extends React.Component {
     render() {
         return (
-            <div>
+            <div className="container">
                 <h1>Hello,</h1>
                 <p>
                 My name is Jessica, I’m a maker of all things. I’ve been altering clothes since I was a young girl, often changing items to fit better or express my style. I started embroidering in 2016. It’s been a therapeutic outlet to calm my mind and my hands.
@@ -17,4 +17,4 @@ class About extends React.Component {
     }
 }
 
-export default About;*/
+export default About;

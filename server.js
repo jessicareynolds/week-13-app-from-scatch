@@ -10,7 +10,14 @@ app.listen(PORT, ()=> console.log("http://localhost:5000/"));
 
 app.get('/home', (req, res) => {
   res.sendFile(path.resolve(__dirname + '/public/index.html'))
-})
+});
+
+// prevents cannot get error
+// https://stackoverflow.com/questions/19313016/catch-all-route-except-for-login
+
+app.get('*', (req, res) => {
+  res.sendFile(path.resolve(__dirname + '/public/index.html'))
+});
 
 // connects to db
 sequelize
