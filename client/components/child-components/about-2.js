@@ -1,4 +1,6 @@
-/*import React from 'react'
+// created .js file to see if that would work instead of .jsx file
+
+import React from 'react'
 
 
 class About extends React.Component {
@@ -17,4 +19,4 @@ class About extends React.Component {
     }
 }
 
-export default About;*/
+export default About;
