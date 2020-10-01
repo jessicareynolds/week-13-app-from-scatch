@@ -20,7 +20,7 @@
     "mysql2": "^2.1.0",
     "nodemon": "^1.18.9",
     "react": "^16.7.0",
-    "react-dom": "^16.7.0",
+    "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
     "sequelize": "^6.3.5",
     "style-loader": "^1.2.1",
